@@ -1,0 +1,1 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Header/><SOAP-ENV:Body><ns2:setBillingCheckResponse xmlns:ns2="http://xmlns.esb.ru/ext/ExtCheck/"><ns2:status>OK</ns2:status><ns2:message/></ns2:setBillingCheckResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>

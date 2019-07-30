@@ -1,0 +1,326 @@
+﻿Выполняется удаление сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление источника EventLog SOAP_Service.
+Предупреждение. Источник SOAP_Service не зарегистрирован на локальном компьютере.
+Выполняется удаление службы SOAP_Service из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Устанавливается служба SOAP_Service...
+Служба SOAP_Service успешно установлена.
+Создается исходный EventLog SOAP_Service в журнале Application...
+Выполняется фиксация сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление источника EventLog SOAP_Service.
+Выполняется удаление службы SOAP_Service из системы...
+Служба SOAP_Service успешно удалена из системы.
+Выполняется установка сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Устанавливается служба SOAP_Service...
+Служба SOAP_Service успешно установлена.
+Создается исходный EventLog SOAP_Service в журнале Application...
+Выполняется фиксация сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется установка сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Устанавливается служба SOAP_Service...
+Создается исходный EventLog SOAP_Service в журнале Application...
+Выполняется откат для сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Восстанавливается исходное состояние журнала событий для источника SOAP_Service.
+Выполняется удаление сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление источника EventLog SOAP_Service.
+Выполняется удаление службы SOAP_Service из системы...
+Служба SOAP_Service успешно удалена из системы.
+Выполняется установка сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Устанавливается служба SOAP_Service...
+Служба SOAP_Service успешно установлена.
+Создается исходный EventLog SOAP_Service в журнале Application...
+Выполняется фиксация сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление источника EventLog SOAP_Service.
+Выполняется удаление службы SOAP_Service из системы...
+Служба SOAP_Service успешно удалена из системы.
+Выполняется установка сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Устанавливается служба SOAP_Service...
+Служба SOAP_Service успешно установлена.
+Создается исходный EventLog SOAP_Service в журнале Application...
+Выполняется фиксация сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление источника EventLog SOAP_Service.
+Выполняется удаление службы SOAP_Service из системы...
+Служба SOAP_Service успешно удалена из системы.
+Выполняется установка сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Устанавливается служба SOAP_Service...
+Служба SOAP_Service успешно установлена.
+Создается исходный EventLog SOAP_Service в журнале Application...
+Выполняется фиксация сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление источника EventLog SOAP_Service.
+Выполняется удаление службы SOAP_Service из системы...
+Служба SOAP_Service успешно удалена из системы.
+Выполняется установка сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Устанавливается служба SOAP_Service...
+Служба SOAP_Service успешно установлена.
+Создается исходный EventLog SOAP_Service в журнале Application...
+Выполняется фиксация сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление источника EventLog SOAP_Service.
+Выполняется удаление службы SOAP_Service из системы...
+Служба SOAP_Service успешно удалена из системы.
+Выполняется установка сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Устанавливается служба SOAP_Service...
+Служба SOAP_Service успешно установлена.
+Создается исходный EventLog SOAP_Service в журнале Application...
+Выполняется фиксация сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление источника EventLog SOAP_Service.
+Выполняется удаление службы SOAP_Service из системы...
+Служба SOAP_Service успешно удалена из системы.
+Выполняется установка сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Устанавливается служба SOAP_Service...
+Служба SOAP_Service успешно установлена.
+Создается исходный EventLog SOAP_Service в журнале Application...
+Выполняется фиксация сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление источника EventLog SOAP_Service.
+Выполняется удаление службы SOAP_Service из системы...
+Служба SOAP_Service успешно удалена из системы.
+Выполняется установка сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Устанавливается служба SOAP_Service...
+Служба SOAP_Service успешно установлена.
+Создается исходный EventLog SOAP_Service в журнале Application...
+Выполняется фиксация сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление источника EventLog SOAP_Service.
+Выполняется удаление службы SOAP_Service из системы...
+Служба SOAP_Service успешно удалена из системы.
+Выполняется установка сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Устанавливается служба SOAP_Service...
+Служба SOAP_Service успешно установлена.
+Создается исходный EventLog SOAP_Service в журнале Application...
+Выполняется фиксация сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление источника EventLog SOAP_Service.
+Выполняется удаление службы SOAP_Service из системы...
+Служба SOAP_Service успешно удалена из системы.
+Выполняется установка сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Устанавливается служба SOAP_Service...
+Служба SOAP_Service успешно установлена.
+Создается исходный EventLog SOAP_Service в журнале Application...
+Выполняется фиксация сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление источника EventLog SOAP_Service.
+Выполняется удаление службы SOAP_Service из системы...
+Служба SOAP_Service успешно удалена из системы.
+Выполняется установка сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Устанавливается служба SOAP_Service...
+Служба SOAP_Service успешно установлена.
+Создается исходный EventLog SOAP_Service в журнале Application...
+Выполняется фиксация сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление сборки 'P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Debug\SoapService.InstallLog
+Выполняется удаление источника EventLog SOAP_Service.
+Выполняется удаление службы SOAP_Service из системы...
+Служба SOAP_Service успешно удалена из системы.

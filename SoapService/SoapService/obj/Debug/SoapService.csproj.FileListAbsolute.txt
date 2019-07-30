@@ -1,0 +1,11 @@
+P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+P:\Project\SoapService\SoapService\bin\Debug\SoapService.pdb
+P:\Project\SoapService\SoapService\obj\Debug\SoapService.csprojResolveAssemblyReference.cache
+P:\Project\SoapService\SoapService\obj\Debug\SoapService.exe
+P:\Project\SoapService\SoapService\obj\Debug\SoapService.pdb
+P:\Project\SoapService\SoapService\obj\Debug\SoapService.csproj.GenerateResource.Cache
+P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe.config
+P:\Project\SoapService\SoapService\obj\Debug\SoapService.Installer1.resources
+P:\Project\SoapService\SoapService\obj\Debug\SoapService.Service1.resources
+P:\Project\SoapService\SoapService\bin\Debug\System.ValueTuple.dll
+P:\Project\SoapService\SoapService\bin\Debug\System.ValueTuple.xml

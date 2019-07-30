@@ -1,0 +1,4 @@
+P:\Project\SoapService\SoapService\bin\Release\SoapService.exe
+P:\Project\SoapService\SoapService\bin\Release\SoapService.pdb
+P:\Project\SoapService\SoapService\obj\Release\SoapService.exe
+P:\Project\SoapService\SoapService\obj\Release\SoapService.pdb

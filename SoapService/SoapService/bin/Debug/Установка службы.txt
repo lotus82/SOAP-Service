@@ -1,0 +1,7 @@
+Установка
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319>InstallUtil.exe P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+Удаление
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319>InstallUtil.exe /u P:\Project\SoapService\SoapService\bin\Debug\SoapService.exe
+
+Запускать CMD обязательно от Администратора
+

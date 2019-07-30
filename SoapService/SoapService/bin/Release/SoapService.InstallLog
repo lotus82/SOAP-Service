@@ -1,0 +1,13 @@
+﻿Выполняется установка сборки 'P:\Project\SoapService\SoapService\bin\Release\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Release\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Release\SoapService.InstallLog
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке P:\Project\SoapService\SoapService\bin\Release\SoapService.exe.
+Выполняется фиксация сборки 'P:\Project\SoapService\SoapService\bin\Release\SoapService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = P:\Project\SoapService\SoapService\bin\Release\SoapService.exe
+   logfile = P:\Project\SoapService\SoapService\bin\Release\SoapService.InstallLog
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке P:\Project\SoapService\SoapService\bin\Release\SoapService.exe.
+Удалите файл InstallState, поскольку отсутствуют программы установки.
